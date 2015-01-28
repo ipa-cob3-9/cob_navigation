@@ -10,7 +10,7 @@ catkin_package()
 ## Install ##
 #############
 
-install(DIRECTORY cob3-1 cob3-2 cob3-3 cob3-4 cob3-5 cob3-6
+install(DIRECTORY cob3-1 cob3-2 cob3-3 cob3-4 cob3-5 cob3-6 cob3-9
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION})
 
 install(DIRECTORY cob4-1 cob4-2
